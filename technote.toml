@@ -1,0 +1,23 @@
+[technote]
+id = "DMTN-284"
+series_id = "DMTN"
+canonical_url = "https://dmtn-284.lsst.io"
+github_url = "https://github.com/lsst-dm/dmtn-284"
+github_default_branch = "main"
+date_created = 2024-03-01T18:29:01Z
+organization.name = "Vera C. Rubin Observatory"
+organization.ror = "https://ror.org/048g3cy84"
+license.id = "CC-BY-4.0"
+
+[technote.status]
+state = "draft"
+
+[[technote.authors]]
+name.given = "Kian-Tat"
+name.family = "Lim"
+internal_id = "limk"
+orcid = "https://orcid.org/0000-0002-6338-6516"
+[[technote.authors.affiliations]]
+name = "SLAC National Accelerator Laboratory"
+internal_id = "SLAC"
+address = "2575 Sand Hill Rd., Menlo Park, CA 94025, USA"
